@@ -1,6 +1,6 @@
 # Toko online sepatu
 
-![gambar](./gambar/bg_sepatu1.jpg.jpg)
+![gambar](./gambar/bg_sepatu1.jpg)
 
 ## Deskripsi
     * Berisi tentang toko online sepatu yang menjual berbagai jenis merek sepatu
